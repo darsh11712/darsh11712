@@ -10,8 +10,7 @@ I'm an Electronics and Communication Engineering student interested in building 
 - **Data Analysis:** Pandas, NumPy, exploratory data analysis, data cleaning
 - **Machine Learning:** Scikit-learn, supervised and unsupervised learning, feature engineering, model evaluation
 - **Deep Learning:** TensorFlow, Keras, ANN, CNN, RNN, LSTM, Transformers
-- **Generative AI:** LLM applications, LangChain, CrewAI
-- **Development Tools:** FastAPI, Streamlit, Jupyter Notebook, Google Colab, Git, GitHub
+- **Development and lib:** FastAPI, Streamlit, Jupyter Notebook, Google Colab, Git, GitHub
 
 ## 🚀 Featured Projects
 
